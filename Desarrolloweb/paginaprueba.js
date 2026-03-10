@@ -1,4 +1,5 @@
 $(document).ready(function () {
+    $("p").slide();
     let control = 0;
     $("#opcion1").click(function () {
         if (control == 0) {
