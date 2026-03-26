@@ -1,8 +1,8 @@
 /*
- * Detection of collisions between boxes
+ * Breakout
  *
- * Gilberto Echeverria
- * 2025-03-13
+ * Alonso Arechiga
+ * 2025-03-09
  */
 
 "use strict";
